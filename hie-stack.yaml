@@ -70,3 +70,5 @@ cradle:
     # silences HLS error for Shake.hs, but I think also ignores actual errors
     - path: "Shake.hs"
       component: "hledger:lib"
+
+# Update: 2025-10-12
