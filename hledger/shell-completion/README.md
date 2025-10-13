@@ -97,3 +97,5 @@ A rough guide:
 5. Then: add the generated script `hledger-completion.SHELL` to the upstream shell repo, so that it will be easily available to users.
    If that's not possible, add it here for now.
    And if you can, please help to keep it up to date with new hledger releases.
+
+<!-- Auto-update: 2025-10-13T10:13:47.150318 -->
