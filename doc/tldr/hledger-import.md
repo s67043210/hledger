@@ -26,3 +26,5 @@
 - Mark `bank.csv` as all new, as if not yet imported:
 
 `rm -f .latest.bank.csv`
+
+<!-- Auto-update: 2025-10-17T12:33:55.317371 -->
