@@ -33,3 +33,5 @@ $ hledger help -h                 # show the help command's usage
 $ hledger help                    # show the manual with info, man or $PAGER
 $ hledger help 'time periods'     # show the manual's "Time periods" topic
 $ hledger help 'time periods' -m  # use man, even if info is installed
+
+# Update: 2025-10-21
