@@ -48,3 +48,5 @@ Runtime stats       : 0.12 s elapsed, 8266 txns/s, 4 MB live, 16 MB alloc
 This command supports
 the [-o/--output-file](hledger.html#output-destination) option
 (but not [-O/--output-format](hledger.html#output-format)).
+
+<!-- Auto-update: 2025-10-22T08:32:57.020593 -->
